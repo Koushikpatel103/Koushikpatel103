@@ -1,5 +1,11 @@
-# 💫 About Me:
-# Hi 👋, I'm Koushik Bonala<br><br>🚀 Passionate AI/ML Engineer and Full-Stack Developer with a strong interest in building intelligent and scalable applications.<br><br>### 👨‍💻 About Me<br><br>* 🎓 B.Tech in Computer Science & Engineering (AI & ML)<br>* 🤖 Skilled in Machine Learning, Deep Learning, Generative AI, and Data Science<br>* 🌐 Experienced in Full-Stack Development using React.js, Node.js, Express.js, and MongoDB<br>* 🧠 Strong foundation in Python, Java, Data Structures & Algorithms, and Problem Solving<br>* 🔗 Exploring LLMs, LangChain, AI Agents, and Modern AI Technologies<br>* 📚 Always learning, building, and improving through real-world projects<br><br>### 🛠️ Skilled In<br><br>**Python • Java • JavaScript • React.js • Node.js • MongoDB • PostgreSQL • TensorFlow • Scikit-Learn • LangChain • Generative AI • Deep Learning**<br>
+# Hi 👋,I'm Koushik Bonala
+🎓 B.Tech CSE (AI & ML)
+🚀 AI/ML Engineer & Full-Stack Developer passionate about building intelligent applications and solving real-world problems with technology.
+💡 Skilled in **Machine Learning, Deep Learning, Generative AI, React.js, Node.js, Python, Java, MongoDB, PostgreSQL, TensorFlow, Scikit-Learn, and LangChain**.
+📚 Currently exploring **LLMs, AI Agents, MLOps, System Design, and Cloud Technologies**.
+🌱 Always learning, building, and improving through impactful projects.
+📫 Reach me at: **[koushikpatel103@gmail.com](mailto:koushikpatel103@gmail.com)**
+
 
 
 ## 🌐 Socials:
